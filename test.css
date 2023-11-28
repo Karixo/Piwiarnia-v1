@@ -1,0 +1,89 @@
+body{
+		background: #884C0D;
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+		Helvetica, Arial, "Lucida Grande", sans-serif;
+		color: black;
+		height: 100%;
+		text-align: center;
+		font-size: 18px;
+}
+
+#h3index
+{
+	display: inline-block;
+	border: solid;
+	border-radius: 10px;
+	width: 1000px;
+	background-color: white;
+	text-align: center;
+}
+#h1index
+{
+	text-align: center;
+	background-color: cadetBlue;
+}
+
+.piwodiv{
+	border: solid 10px;
+	border-radius: 200px 20px 200px 20px;
+	margin-right: 100px;
+}
+
+p{
+	text-align: justify;
+	width: 500px;
+}
+.divindex
+{
+	display: inline-block;
+	text-align: center;
+}
+.piwodivindex{
+	border: solid 10px;
+	border-radius: 500px;
+	margin-right: 100px;
+	/*transform: rotate(5deg);*/
+	
+}
+button{
+	width: 150px;
+	height: 40px;
+}
+input{
+	text-align: center;
+	position: sticky;
+	margin: 10px;
+}
+#jumboli{
+	color: #118701;
+	background-color: #e5e8e2;
+	font-family: "Metal Mania";
+	font-style: italic;
+	font-size: 2em;
+	letter-spacing: 0,6em;
+	text-decoration: none;
+}
+
+#domowepiwo{
+	height: 40px;
+	width:	200px;
+}
+
+#wip{
+	width: 500px;
+	margin-left: 100px;
+}
+#buttonwip{
+	margin-left: 270px;
+	background-color: red;
+	border: solid 5px;
+}
+.opis{
+	border: solid 10px;
+	padding: 20px;
+	background-color: lightBlue;
+	font-family: Helvetica;
+}
+td{
+	margin: 20px;
+}
